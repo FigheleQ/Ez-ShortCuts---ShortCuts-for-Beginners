@@ -1,0 +1,568 @@
+// !$*UTF8*$!
+{
+	archiveVersion = 1;
+	classes = {
+	};
+	objectVersion = 77;
+	objects = {
+
+/* Begin PBXContainerItemProxy section */
+		48C37F7C2FFD22BF00767EFD /* PBXContainerItemProxy */ = {
+			isa = PBXContainerItemProxy;
+			containerPortal = 48C37F642FFD22BD00767EFD /* Project object */;
+			proxyType = 1;
+			remoteGlobalIDString = 48C37F6B2FFD22BD00767EFD;
+			remoteInfo = "ShortCuts For Beginners";
+		};
+		48C37F862FFD22BF00767EFD /* PBXContainerItemProxy */ = {
+			isa = PBXContainerItemProxy;
+			containerPortal = 48C37F642FFD22BD00767EFD /* Project object */;
+			proxyType = 1;
+			remoteGlobalIDString = 48C37F6B2FFD22BD00767EFD;
+			remoteInfo = "ShortCuts For Beginners";
+		};
+/* End PBXContainerItemProxy section */
+
+/* Begin PBXFileReference section */
+		48C37F6C2FFD22BD00767EFD /* ShortCuts For Beginners.app */ = {isa = PBXFileReference; explicitFileType = wrapper.application; includeInIndex = 0; path = "ShortCuts For Beginners.app"; sourceTree = BUILT_PRODUCTS_DIR; };
+		48C37F7B2FFD22BF00767EFD /* ShortCuts For BeginnersTests.xctest */ = {isa = PBXFileReference; explicitFileType = wrapper.cfbundle; includeInIndex = 0; path = "ShortCuts For BeginnersTests.xctest"; sourceTree = BUILT_PRODUCTS_DIR; };
+		48C37F852FFD22BF00767EFD /* ShortCuts For BeginnersUITests.xctest */ = {isa = PBXFileReference; explicitFileType = wrapper.cfbundle; includeInIndex = 0; path = "ShortCuts For BeginnersUITests.xctest"; sourceTree = BUILT_PRODUCTS_DIR; };
+/* End PBXFileReference section */
+
+/* Begin PBXFileSystemSynchronizedRootGroup section */
+		48C37F6E2FFD22BD00767EFD /* ShortCuts For Beginners */ = {
+			isa = PBXFileSystemSynchronizedRootGroup;
+			path = "ShortCuts For Beginners";
+			sourceTree = "<group>";
+		};
+		48C37F7E2FFD22BF00767EFD /* ShortCuts For BeginnersTests */ = {
+			isa = PBXFileSystemSynchronizedRootGroup;
+			path = "ShortCuts For BeginnersTests";
+			sourceTree = "<group>";
+		};
+		48C37F882FFD22BF00767EFD /* ShortCuts For BeginnersUITests */ = {
+			isa = PBXFileSystemSynchronizedRootGroup;
+			path = "ShortCuts For BeginnersUITests";
+			sourceTree = "<group>";
+		};
+/* End PBXFileSystemSynchronizedRootGroup section */
+
+/* Begin PBXFrameworksBuildPhase section */
+		48C37F692FFD22BD00767EFD /* Frameworks */ = {
+			isa = PBXFrameworksBuildPhase;
+			buildActionMask = 2147483647;
+			files = (
+			);
+			runOnlyForDeploymentPostprocessing = 0;
+		};
+		48C37F782FFD22BF00767EFD /* Frameworks */ = {
+			isa = PBXFrameworksBuildPhase;
+			buildActionMask = 2147483647;
+			files = (
+			);
+			runOnlyForDeploymentPostprocessing = 0;
+		};
+		48C37F822FFD22BF00767EFD /* Frameworks */ = {
+			isa = PBXFrameworksBuildPhase;
+			buildActionMask = 2147483647;
+			files = (
+			);
+			runOnlyForDeploymentPostprocessing = 0;
+		};
+/* End PBXFrameworksBuildPhase section */
+
+/* Begin PBXGroup section */
+		48C37F632FFD22BD00767EFD = {
+			isa = PBXGroup;
+			children = (
+				48C37F6E2FFD22BD00767EFD /* ShortCuts For Beginners */,
+				48C37F7E2FFD22BF00767EFD /* ShortCuts For BeginnersTests */,
+				48C37F882FFD22BF00767EFD /* ShortCuts For BeginnersUITests */,
+				48C37F6D2FFD22BD00767EFD /* Products */,
+			);
+			sourceTree = "<group>";
+		};
+		48C37F6D2FFD22BD00767EFD /* Products */ = {
+			isa = PBXGroup;
+			children = (
+				48C37F6C2FFD22BD00767EFD /* ShortCuts For Beginners.app */,
+				48C37F7B2FFD22BF00767EFD /* ShortCuts For BeginnersTests.xctest */,
+				48C37F852FFD22BF00767EFD /* ShortCuts For BeginnersUITests.xctest */,
+			);
+			name = Products;
+			sourceTree = "<group>";
+		};
+/* End PBXGroup section */
+
+/* Begin PBXNativeTarget section */
+		48C37F6B2FFD22BD00767EFD /* ShortCuts For Beginners */ = {
+			isa = PBXNativeTarget;
+			buildConfigurationList = 48C37F8F2FFD22BF00767EFD /* Build configuration list for PBXNativeTarget "ShortCuts For Beginners" */;
+			buildPhases = (
+				48C37F682FFD22BD00767EFD /* Sources */,
+				48C37F692FFD22BD00767EFD /* Frameworks */,
+				48C37F6A2FFD22BD00767EFD /* Resources */,
+			);
+			buildRules = (
+			);
+			dependencies = (
+			);
+			fileSystemSynchronizedGroups = (
+				48C37F6E2FFD22BD00767EFD /* ShortCuts For Beginners */,
+			);
+			name = "ShortCuts For Beginners";
+			packageProductDependencies = (
+			);
+			productName = "ShortCuts For Beginners";
+			productReference = 48C37F6C2FFD22BD00767EFD /* ShortCuts For Beginners.app */;
+			productType = "com.apple.product-type.application";
+		};
+		48C37F7A2FFD22BF00767EFD /* ShortCuts For BeginnersTests */ = {
+			isa = PBXNativeTarget;
+			buildConfigurationList = 48C37F922FFD22BF00767EFD /* Build configuration list for PBXNativeTarget "ShortCuts For BeginnersTests" */;
+			buildPhases = (
+				48C37F772FFD22BF00767EFD /* Sources */,
+				48C37F782FFD22BF00767EFD /* Frameworks */,
+				48C37F792FFD22BF00767EFD /* Resources */,
+			);
+			buildRules = (
+			);
+			dependencies = (
+				48C37F7D2FFD22BF00767EFD /* PBXTargetDependency */,
+			);
+			fileSystemSynchronizedGroups = (
+				48C37F7E2FFD22BF00767EFD /* ShortCuts For BeginnersTests */,
+			);
+			name = "ShortCuts For BeginnersTests";
+			packageProductDependencies = (
+			);
+			productName = "ShortCuts For BeginnersTests";
+			productReference = 48C37F7B2FFD22BF00767EFD /* ShortCuts For BeginnersTests.xctest */;
+			productType = "com.apple.product-type.bundle.unit-test";
+		};
+		48C37F842FFD22BF00767EFD /* ShortCuts For BeginnersUITests */ = {
+			isa = PBXNativeTarget;
+			buildConfigurationList = 48C37F952FFD22BF00767EFD /* Build configuration list for PBXNativeTarget "ShortCuts For BeginnersUITests" */;
+			buildPhases = (
+				48C37F812FFD22BF00767EFD /* Sources */,
+				48C37F822FFD22BF00767EFD /* Frameworks */,
+				48C37F832FFD22BF00767EFD /* Resources */,
+			);
+			buildRules = (
+			);
+			dependencies = (
+				48C37F872FFD22BF00767EFD /* PBXTargetDependency */,
+			);
+			fileSystemSynchronizedGroups = (
+				48C37F882FFD22BF00767EFD /* ShortCuts For BeginnersUITests */,
+			);
+			name = "ShortCuts For BeginnersUITests";
+			packageProductDependencies = (
+			);
+			productName = "ShortCuts For BeginnersUITests";
+			productReference = 48C37F852FFD22BF00767EFD /* ShortCuts For BeginnersUITests.xctest */;
+			productType = "com.apple.product-type.bundle.ui-testing";
+		};
+/* End PBXNativeTarget section */
+
+/* Begin PBXProject section */
+		48C37F642FFD22BD00767EFD /* Project object */ = {
+			isa = PBXProject;
+			attributes = {
+				BuildIndependentTargetsInParallel = 1;
+				LastSwiftUpdateCheck = 2660;
+				LastUpgradeCheck = 2660;
+				TargetAttributes = {
+					48C37F6B2FFD22BD00767EFD = {
+						CreatedOnToolsVersion = 26.6;
+					};
+					48C37F7A2FFD22BF00767EFD = {
+						CreatedOnToolsVersion = 26.6;
+						TestTargetID = 48C37F6B2FFD22BD00767EFD;
+					};
+					48C37F842FFD22BF00767EFD = {
+						CreatedOnToolsVersion = 26.6;
+						TestTargetID = 48C37F6B2FFD22BD00767EFD;
+					};
+				};
+			};
+			buildConfigurationList = 48C37F672FFD22BD00767EFD /* Build configuration list for PBXProject "ShortCuts For Beginners" */;
+			developmentRegion = en;
+			hasScannedForEncodings = 0;
+			knownRegions = (
+				en,
+				Base,
+			);
+			mainGroup = 48C37F632FFD22BD00767EFD;
+			minimizedProjectReferenceProxies = 1;
+			preferredProjectObjectVersion = 77;
+			productRefGroup = 48C37F6D2FFD22BD00767EFD /* Products */;
+			projectDirPath = "";
+			projectRoot = "";
+			targets = (
+				48C37F6B2FFD22BD00767EFD /* ShortCuts For Beginners */,
+				48C37F7A2FFD22BF00767EFD /* ShortCuts For BeginnersTests */,
+				48C37F842FFD22BF00767EFD /* ShortCuts For BeginnersUITests */,
+			);
+		};
+/* End PBXProject section */
+
+/* Begin PBXResourcesBuildPhase section */
+		48C37F6A2FFD22BD00767EFD /* Resources */ = {
+			isa = PBXResourcesBuildPhase;
+			buildActionMask = 2147483647;
+			files = (
+			);
+			runOnlyForDeploymentPostprocessing = 0;
+		};
+		48C37F792FFD22BF00767EFD /* Resources */ = {
+			isa = PBXResourcesBuildPhase;
+			buildActionMask = 2147483647;
+			files = (
+			);
+			runOnlyForDeploymentPostprocessing = 0;
+		};
+		48C37F832FFD22BF00767EFD /* Resources */ = {
+			isa = PBXResourcesBuildPhase;
+			buildActionMask = 2147483647;
+			files = (
+			);
+			runOnlyForDeploymentPostprocessing = 0;
+		};
+/* End PBXResourcesBuildPhase section */
+
+/* Begin PBXSourcesBuildPhase section */
+		48C37F682FFD22BD00767EFD /* Sources */ = {
+			isa = PBXSourcesBuildPhase;
+			buildActionMask = 2147483647;
+			files = (
+			);
+			runOnlyForDeploymentPostprocessing = 0;
+		};
+		48C37F772FFD22BF00767EFD /* Sources */ = {
+			isa = PBXSourcesBuildPhase;
+			buildActionMask = 2147483647;
+			files = (
+			);
+			runOnlyForDeploymentPostprocessing = 0;
+		};
+		48C37F812FFD22BF00767EFD /* Sources */ = {
+			isa = PBXSourcesBuildPhase;
+			buildActionMask = 2147483647;
+			files = (
+			);
+			runOnlyForDeploymentPostprocessing = 0;
+		};
+/* End PBXSourcesBuildPhase section */
+
+/* Begin PBXTargetDependency section */
+		48C37F7D2FFD22BF00767EFD /* PBXTargetDependency */ = {
+			isa = PBXTargetDependency;
+			target = 48C37F6B2FFD22BD00767EFD /* ShortCuts For Beginners */;
+			targetProxy = 48C37F7C2FFD22BF00767EFD /* PBXContainerItemProxy */;
+		};
+		48C37F872FFD22BF00767EFD /* PBXTargetDependency */ = {
+			isa = PBXTargetDependency;
+			target = 48C37F6B2FFD22BD00767EFD /* ShortCuts For Beginners */;
+			targetProxy = 48C37F862FFD22BF00767EFD /* PBXContainerItemProxy */;
+		};
+/* End PBXTargetDependency section */
+
+/* Begin XCBuildConfiguration section */
+		48C37F8D2FFD22BF00767EFD /* Debug */ = {
+			isa = XCBuildConfiguration;
+			buildSettings = {
+				ALWAYS_SEARCH_USER_PATHS = NO;
+				ASSETCATALOG_COMPILER_GENERATE_SWIFT_ASSET_SYMBOL_EXTENSIONS = YES;
+				CLANG_ANALYZER_NONNULL = YES;
+				CLANG_ANALYZER_NUMBER_OBJECT_CONVERSION = YES_AGGRESSIVE;
+				CLANG_CXX_LANGUAGE_STANDARD = "gnu++20";
+				CLANG_ENABLE_MODULES = YES;
+				CLANG_ENABLE_OBJC_ARC = YES;
+				CLANG_ENABLE_OBJC_WEAK = YES;
+				CLANG_WARN_BLOCK_CAPTURE_AUTORELEASING = YES;
+				CLANG_WARN_BOOL_CONVERSION = YES;
+				CLANG_WARN_COMMA = YES;
+				CLANG_WARN_CONSTANT_CONVERSION = YES;
+				CLANG_WARN_DEPRECATED_OBJC_IMPLEMENTATIONS = YES;
+				CLANG_WARN_DIRECT_OBJC_ISA_USAGE = YES_ERROR;
+				CLANG_WARN_DOCUMENTATION_COMMENTS = YES;
+				CLANG_WARN_EMPTY_BODY = YES;
+				CLANG_WARN_ENUM_CONVERSION = YES;
+				CLANG_WARN_INFINITE_RECURSION = YES;
+				CLANG_WARN_INT_CONVERSION = YES;
+				CLANG_WARN_NON_LITERAL_NULL_CONVERSION = YES;
+				CLANG_WARN_OBJC_IMPLICIT_RETAIN_SELF = YES;
+				CLANG_WARN_OBJC_LITERAL_CONVERSION = YES;
+				CLANG_WARN_OBJC_ROOT_CLASS = YES_ERROR;
+				CLANG_WARN_QUOTED_INCLUDE_IN_FRAMEWORK_HEADER = YES;
+				CLANG_WARN_RANGE_LOOP_ANALYSIS = YES;
+				CLANG_WARN_STRICT_PROTOTYPES = YES;
+				CLANG_WARN_SUSPICIOUS_MOVE = YES;
+				CLANG_WARN_UNGUARDED_AVAILABILITY = YES_AGGRESSIVE;
+				CLANG_WARN_UNREACHABLE_CODE = YES;
+				CLANG_WARN__DUPLICATE_METHOD_MATCH = YES;
+				COPY_PHASE_STRIP = NO;
+				DEBUG_INFORMATION_FORMAT = dwarf;
+				ENABLE_STRICT_OBJC_MSGSEND = YES;
+				ENABLE_TESTABILITY = YES;
+				ENABLE_USER_SCRIPT_SANDBOXING = YES;
+				GCC_C_LANGUAGE_STANDARD = gnu17;
+				GCC_DYNAMIC_NO_PIC = NO;
+				GCC_NO_COMMON_BLOCKS = YES;
+				GCC_OPTIMIZATION_LEVEL = 0;
+				GCC_PREPROCESSOR_DEFINITIONS = (
+					"DEBUG=1",
+					"$(inherited)",
+				);
+				GCC_WARN_64_TO_32_BIT_CONVERSION = YES;
+				GCC_WARN_ABOUT_RETURN_TYPE = YES_ERROR;
+				GCC_WARN_UNDECLARED_SELECTOR = YES;
+				GCC_WARN_UNINITIALIZED_AUTOS = YES_AGGRESSIVE;
+				GCC_WARN_UNUSED_FUNCTION = YES;
+				GCC_WARN_UNUSED_VARIABLE = YES;
+				LOCALIZATION_PREFERS_STRING_CATALOGS = YES;
+				MACOSX_DEPLOYMENT_TARGET = 26.3;
+				MTL_ENABLE_DEBUG_INFO = INCLUDE_SOURCE;
+				MTL_FAST_MATH = YES;
+				ONLY_ACTIVE_ARCH = YES;
+				SDKROOT = macosx;
+				SWIFT_ACTIVE_COMPILATION_CONDITIONS = "DEBUG $(inherited)";
+				SWIFT_OPTIMIZATION_LEVEL = "-Onone";
+			};
+			name = Debug;
+		};
+		48C37F8E2FFD22BF00767EFD /* Release */ = {
+			isa = XCBuildConfiguration;
+			buildSettings = {
+				ALWAYS_SEARCH_USER_PATHS = NO;
+				ASSETCATALOG_COMPILER_GENERATE_SWIFT_ASSET_SYMBOL_EXTENSIONS = YES;
+				CLANG_ANALYZER_NONNULL = YES;
+				CLANG_ANALYZER_NUMBER_OBJECT_CONVERSION = YES_AGGRESSIVE;
+				CLANG_CXX_LANGUAGE_STANDARD = "gnu++20";
+				CLANG_ENABLE_MODULES = YES;
+				CLANG_ENABLE_OBJC_ARC = YES;
+				CLANG_ENABLE_OBJC_WEAK = YES;
+				CLANG_WARN_BLOCK_CAPTURE_AUTORELEASING = YES;
+				CLANG_WARN_BOOL_CONVERSION = YES;
+				CLANG_WARN_COMMA = YES;
+				CLANG_WARN_CONSTANT_CONVERSION = YES;
+				CLANG_WARN_DEPRECATED_OBJC_IMPLEMENTATIONS = YES;
+				CLANG_WARN_DIRECT_OBJC_ISA_USAGE = YES_ERROR;
+				CLANG_WARN_DOCUMENTATION_COMMENTS = YES;
+				CLANG_WARN_EMPTY_BODY = YES;
+				CLANG_WARN_ENUM_CONVERSION = YES;
+				CLANG_WARN_INFINITE_RECURSION = YES;
+				CLANG_WARN_INT_CONVERSION = YES;
+				CLANG_WARN_NON_LITERAL_NULL_CONVERSION = YES;
+				CLANG_WARN_OBJC_IMPLICIT_RETAIN_SELF = YES;
+				CLANG_WARN_OBJC_LITERAL_CONVERSION = YES;
+				CLANG_WARN_OBJC_ROOT_CLASS = YES_ERROR;
+				CLANG_WARN_QUOTED_INCLUDE_IN_FRAMEWORK_HEADER = YES;
+				CLANG_WARN_RANGE_LOOP_ANALYSIS = YES;
+				CLANG_WARN_STRICT_PROTOTYPES = YES;
+				CLANG_WARN_SUSPICIOUS_MOVE = YES;
+				CLANG_WARN_UNGUARDED_AVAILABILITY = YES_AGGRESSIVE;
+				CLANG_WARN_UNREACHABLE_CODE = YES;
+				CLANG_WARN__DUPLICATE_METHOD_MATCH = YES;
+				COPY_PHASE_STRIP = NO;
+				DEBUG_INFORMATION_FORMAT = "dwarf-with-dsym";
+				ENABLE_NS_ASSERTIONS = NO;
+				ENABLE_STRICT_OBJC_MSGSEND = YES;
+				ENABLE_USER_SCRIPT_SANDBOXING = YES;
+				GCC_C_LANGUAGE_STANDARD = gnu17;
+				GCC_NO_COMMON_BLOCKS = YES;
+				GCC_WARN_64_TO_32_BIT_CONVERSION = YES;
+				GCC_WARN_ABOUT_RETURN_TYPE = YES_ERROR;
+				GCC_WARN_UNDECLARED_SELECTOR = YES;
+				GCC_WARN_UNINITIALIZED_AUTOS = YES_AGGRESSIVE;
+				GCC_WARN_UNUSED_FUNCTION = YES;
+				GCC_WARN_UNUSED_VARIABLE = YES;
+				LOCALIZATION_PREFERS_STRING_CATALOGS = YES;
+				MACOSX_DEPLOYMENT_TARGET = 26.3;
+				MTL_ENABLE_DEBUG_INFO = NO;
+				MTL_FAST_MATH = YES;
+				SDKROOT = macosx;
+				SWIFT_COMPILATION_MODE = wholemodule;
+			};
+			name = Release;
+		};
+		48C37F902FFD22BF00767EFD /* Debug */ = {
+			isa = XCBuildConfiguration;
+			buildSettings = {
+				ASSETCATALOG_COMPILER_APPICON_NAME = AppIcon;
+				ASSETCATALOG_COMPILER_GLOBAL_ACCENT_COLOR_NAME = AccentColor;
+				CODE_SIGN_STYLE = Automatic;
+				COMBINE_HIDPI_IMAGES = YES;
+				CURRENT_PROJECT_VERSION = 1;
+				ENABLE_APP_SANDBOX = YES;
+				ENABLE_PREVIEWS = YES;
+				ENABLE_USER_SELECTED_FILES = readonly;
+				GENERATE_INFOPLIST_FILE = YES;
+				INFOPLIST_KEY_NSHumanReadableCopyright = "";
+				LD_RUNPATH_SEARCH_PATHS = (
+					"$(inherited)",
+					"@executable_path/../Frameworks",
+				);
+				MARKETING_VERSION = 1.0;
+				PRODUCT_BUNDLE_IDENTIFIER = "WholeLottaApps.ShortCuts-For-Beginners";
+				PRODUCT_NAME = "$(TARGET_NAME)";
+				REGISTER_APP_GROUPS = YES;
+				STRING_CATALOG_GENERATE_SYMBOLS = YES;
+				SWIFT_APPROACHABLE_CONCURRENCY = YES;
+				SWIFT_DEFAULT_ACTOR_ISOLATION = MainActor;
+				SWIFT_EMIT_LOC_STRINGS = YES;
+				SWIFT_UPCOMING_FEATURE_MEMBER_IMPORT_VISIBILITY = YES;
+				SWIFT_VERSION = 5.0;
+			};
+			name = Debug;
+		};
+		48C37F912FFD22BF00767EFD /* Release */ = {
+			isa = XCBuildConfiguration;
+			buildSettings = {
+				ASSETCATALOG_COMPILER_APPICON_NAME = AppIcon;
+				ASSETCATALOG_COMPILER_GLOBAL_ACCENT_COLOR_NAME = AccentColor;
+				CODE_SIGN_STYLE = Automatic;
+				COMBINE_HIDPI_IMAGES = YES;
+				CURRENT_PROJECT_VERSION = 1;
+				ENABLE_APP_SANDBOX = YES;
+				ENABLE_PREVIEWS = YES;
+				ENABLE_USER_SELECTED_FILES = readonly;
+				GENERATE_INFOPLIST_FILE = YES;
+				INFOPLIST_KEY_NSHumanReadableCopyright = "";
+				LD_RUNPATH_SEARCH_PATHS = (
+					"$(inherited)",
+					"@executable_path/../Frameworks",
+				);
+				MARKETING_VERSION = 1.0;
+				PRODUCT_BUNDLE_IDENTIFIER = "WholeLottaApps.ShortCuts-For-Beginners";
+				PRODUCT_NAME = "$(TARGET_NAME)";
+				REGISTER_APP_GROUPS = YES;
+				STRING_CATALOG_GENERATE_SYMBOLS = YES;
+				SWIFT_APPROACHABLE_CONCURRENCY = YES;
+				SWIFT_DEFAULT_ACTOR_ISOLATION = MainActor;
+				SWIFT_EMIT_LOC_STRINGS = YES;
+				SWIFT_UPCOMING_FEATURE_MEMBER_IMPORT_VISIBILITY = YES;
+				SWIFT_VERSION = 5.0;
+			};
+			name = Release;
+		};
+		48C37F932FFD22BF00767EFD /* Debug */ = {
+			isa = XCBuildConfiguration;
+			buildSettings = {
+				BUNDLE_LOADER = "$(TEST_HOST)";
+				CODE_SIGN_STYLE = Automatic;
+				CURRENT_PROJECT_VERSION = 1;
+				GENERATE_INFOPLIST_FILE = YES;
+				MACOSX_DEPLOYMENT_TARGET = 26.3;
+				MARKETING_VERSION = 1.0;
+				PRODUCT_BUNDLE_IDENTIFIER = "WholeLottaApps.ShortCuts-For-BeginnersTests";
+				PRODUCT_NAME = "$(TARGET_NAME)";
+				STRING_CATALOG_GENERATE_SYMBOLS = NO;
+				SWIFT_APPROACHABLE_CONCURRENCY = YES;
+				SWIFT_EMIT_LOC_STRINGS = NO;
+				SWIFT_UPCOMING_FEATURE_MEMBER_IMPORT_VISIBILITY = YES;
+				SWIFT_VERSION = 5.0;
+				TEST_HOST = "$(BUILT_PRODUCTS_DIR)/ShortCuts For Beginners.app/$(BUNDLE_EXECUTABLE_FOLDER_PATH)/ShortCuts For Beginners";
+			};
+			name = Debug;
+		};
+		48C37F942FFD22BF00767EFD /* Release */ = {
+			isa = XCBuildConfiguration;
+			buildSettings = {
+				BUNDLE_LOADER = "$(TEST_HOST)";
+				CODE_SIGN_STYLE = Automatic;
+				CURRENT_PROJECT_VERSION = 1;
+				GENERATE_INFOPLIST_FILE = YES;
+				MACOSX_DEPLOYMENT_TARGET = 26.3;
+				MARKETING_VERSION = 1.0;
+				PRODUCT_BUNDLE_IDENTIFIER = "WholeLottaApps.ShortCuts-For-BeginnersTests";
+				PRODUCT_NAME = "$(TARGET_NAME)";
+				STRING_CATALOG_GENERATE_SYMBOLS = NO;
+				SWIFT_APPROACHABLE_CONCURRENCY = YES;
+				SWIFT_EMIT_LOC_STRINGS = NO;
+				SWIFT_UPCOMING_FEATURE_MEMBER_IMPORT_VISIBILITY = YES;
+				SWIFT_VERSION = 5.0;
+				TEST_HOST = "$(BUILT_PRODUCTS_DIR)/ShortCuts For Beginners.app/$(BUNDLE_EXECUTABLE_FOLDER_PATH)/ShortCuts For Beginners";
+			};
+			name = Release;
+		};
+		48C37F962FFD22BF00767EFD /* Debug */ = {
+			isa = XCBuildConfiguration;
+			buildSettings = {
+				CODE_SIGN_STYLE = Automatic;
+				CURRENT_PROJECT_VERSION = 1;
+				GENERATE_INFOPLIST_FILE = YES;
+				MARKETING_VERSION = 1.0;
+				PRODUCT_BUNDLE_IDENTIFIER = "WholeLottaApps.ShortCuts-For-BeginnersUITests";
+				PRODUCT_NAME = "$(TARGET_NAME)";
+				STRING_CATALOG_GENERATE_SYMBOLS = NO;
+				SWIFT_APPROACHABLE_CONCURRENCY = YES;
+				SWIFT_EMIT_LOC_STRINGS = NO;
+				SWIFT_UPCOMING_FEATURE_MEMBER_IMPORT_VISIBILITY = YES;
+				SWIFT_VERSION = 5.0;
+				TEST_TARGET_NAME = "ShortCuts For Beginners";
+			};
+			name = Debug;
+		};
+		48C37F972FFD22BF00767EFD /* Release */ = {
+			isa = XCBuildConfiguration;
+			buildSettings = {
+				CODE_SIGN_STYLE = Automatic;
+				CURRENT_PROJECT_VERSION = 1;
+				GENERATE_INFOPLIST_FILE = YES;
+				MARKETING_VERSION = 1.0;
+				PRODUCT_BUNDLE_IDENTIFIER = "WholeLottaApps.ShortCuts-For-BeginnersUITests";
+				PRODUCT_NAME = "$(TARGET_NAME)";
+				STRING_CATALOG_GENERATE_SYMBOLS = NO;
+				SWIFT_APPROACHABLE_CONCURRENCY = YES;
+				SWIFT_EMIT_LOC_STRINGS = NO;
+				SWIFT_UPCOMING_FEATURE_MEMBER_IMPORT_VISIBILITY = YES;
+				SWIFT_VERSION = 5.0;
+				TEST_TARGET_NAME = "ShortCuts For Beginners";
+			};
+			name = Release;
+		};
+/* End XCBuildConfiguration section */
+
+/* Begin XCConfigurationList section */
+		48C37F672FFD22BD00767EFD /* Build configuration list for PBXProject "ShortCuts For Beginners" */ = {
+			isa = XCConfigurationList;
+			buildConfigurations = (
+				48C37F8D2FFD22BF00767EFD /* Debug */,
+				48C37F8E2FFD22BF00767EFD /* Release */,
+			);
+			defaultConfigurationIsVisible = 0;
+			defaultConfigurationName = Release;
+		};
+		48C37F8F2FFD22BF00767EFD /* Build configuration list for PBXNativeTarget "ShortCuts For Beginners" */ = {
+			isa = XCConfigurationList;
+			buildConfigurations = (
+				48C37F902FFD22BF00767EFD /* Debug */,
+				48C37F912FFD22BF00767EFD /* Release */,
+			);
+			defaultConfigurationIsVisible = 0;
+			defaultConfigurationName = Release;
+		};
+		48C37F922FFD22BF00767EFD /* Build configuration list for PBXNativeTarget "ShortCuts For BeginnersTests" */ = {
+			isa = XCConfigurationList;
+			buildConfigurations = (
+				48C37F932FFD22BF00767EFD /* Debug */,
+				48C37F942FFD22BF00767EFD /* Release */,
+			);
+			defaultConfigurationIsVisible = 0;
+			defaultConfigurationName = Release;
+		};
+		48C37F952FFD22BF00767EFD /* Build configuration list for PBXNativeTarget "ShortCuts For BeginnersUITests" */ = {
+			isa = XCConfigurationList;
+			buildConfigurations = (
+				48C37F962FFD22BF00767EFD /* Debug */,
+				48C37F972FFD22BF00767EFD /* Release */,
+			);
+			defaultConfigurationIsVisible = 0;
+			defaultConfigurationName = Release;
+		};
+/* End XCConfigurationList section */
+	};
+	rootObject = 48C37F642FFD22BD00767EFD /* Project object */;
+}
