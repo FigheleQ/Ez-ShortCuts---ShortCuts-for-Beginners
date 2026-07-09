@@ -1,0 +1,64 @@
+# ========================
+# Xcode
+# ========================
+
+# Build artefacts
+build/
+DerivedData/
+*.xcarchive
+*.ipa
+*.dSYM.zip
+*.dSYM
+
+# User-specific Xcode settings (window layouts, breakpoints, schemes)
+xcuserdata/
+*.xcscmblueprint
+*.xccheckout
+
+# Playgrounds
+timeline.xctimeline
+playground.xcworkspace
+
+# Swift Package Manager cache
+.build/
+.swiftpm/
+
+# ========================
+# macOS
+# ========================
+
+# Finder metadata
+.DS_Store
+.AppleDouble
+.LSOverride
+
+# Spotlight index
+.Spotlight-V100
+
+# Trashes
+.Trashes
+._*
+
+# ========================
+# Xcode generated
+# ========================
+
+# Package.resolved is useful in app targets; keep if you add SPM packages.
+# Uncomment the next line only if you want to exclude it:
+# ShortCuts For Beginners.xcodeproj/project.xcworkspace/xcshareddata/swiftpm/Package.resolved
+
+# ========================
+# Editor / IDE
+# ========================
+
+# VS Code, JetBrains
+.vscode/
+.idea/
+
+# ========================
+# Credentials & secrets
+# ========================
+*.p8
+*.p12
+*.mobileprovision
+*.provisionprofile
