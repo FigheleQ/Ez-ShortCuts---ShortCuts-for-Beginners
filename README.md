@@ -1,6 +1,6 @@
 # ⌨️ ShortCuts For Beginners
 
-> A native macOS app that turns learning keyboard shortcuts from a chore into an interactive experience — browse, practice with tap or real keyboard, and watch video tutorials, all in one clean three-column interface.
+> A native macOS app that turns learning keyboard shortcuts from a chore into an interactive experience — browse 70+ shortcuts, practice by tapping on-screen keys or pressing the real shortcut on your keyboard, all in one clean three-column interface.
 
 ---
 
@@ -17,7 +17,7 @@
   - Tap the on-screen key caps in order with visual highlighting and haptic feedback
   - Press the real shortcut on your physical keyboard — the app detects modifier keys live and validates the full combination
 - **Smart system-shortcut detection** — shortcuts that macOS intercepts (Spotlight, ⌘⇥, screenshots…) are flagged automatically; the app explains why and falls back to tap-only practice
-- **Video tutorial card** — each shortcut can have a bundled or remote `.mp4`/`.mov` tutorial that plays inline via AVKit; a friendly placeholder is shown when no video is attached yet
+- **Video tutorial card** _(coming soon)_ — the infrastructure is fully built: each shortcut supports a bundled or remote `.mp4`/`.mov` that plays inline via AVKit; video tutorials will be added in a future release
 - **Native three-column SwiftUI layout** — sidebar (categories) → list (shortcuts) → detail, built with `NavigationSplitView` for a proper macOS feel
 - **Styled key caps** — `KeyCapView` renders every key to look like a physical keycap, with a pressed-state animation used by Practice Mode
 - **MVVM architecture** with Swift `@Observable` — clean separation between data, view model, and views
@@ -145,6 +145,7 @@ The test suite (Swift Testing) covers:
 
 ## Roadmap
 
+- [ ] **Video tutorials** — record and attach screen-capture walkthroughs for each shortcut
 - [ ] Progress tracking — mark shortcuts as learned, show completion per category
 - [ ] Quiz Mode — app shows a shortcut name, you press the keys from memory
 - [ ] Search — filter shortcuts by name across all categories
