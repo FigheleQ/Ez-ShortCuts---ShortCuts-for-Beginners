@@ -6,7 +6,9 @@
 
 ## Screenshots
 
-> _Add screenshots here after your first run — drag images into this section on GitHub._
+<img width="1582" height="953" alt="image" src="https://github.com/user-attachments/assets/09c46175-dbf8-4d61-9ccc-46b382e2a407" />
+<img width="545" height="675" alt="image" src="https://github.com/user-attachments/assets/ba9b2b47-0f9c-42ec-bb7c-b0d459dd10c0" />
+<img width="545" height="675" alt="image" src="https://github.com/user-attachments/assets/02742484-dab8-4fad-8a7d-c4f280ca9507" />
 
 ---
 
